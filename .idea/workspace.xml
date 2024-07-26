@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d75b440-fb7b-4f4c-bc07-36ecabb5741f" name="Changes" comment="Set up the Main.java file.">
-      <change beforePath="$PROJECT_DIR$/._.git" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._.idea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._JPaint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._JPaint.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/._LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._src" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/._JPaint.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/._JPaint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/._Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JPaint.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/JPaint.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JPaint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JPaint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +26,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2jinh1RD13zrXFPqq3hBKQEkrbd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,7 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Debug",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.google.cloudcode.ide_session_index": "20240724_0000",
@@ -73,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721878880672</updated>
-      <workItem from="1721878881660" duration="11755000" />
+      <workItem from="1721878881660" duration="31602000" />
     </task>
     <task id="LOCAL-00001" summary="Built the main form.">
       <option name="closed" value="true" />
@@ -115,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721890829891</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Set up the Main.java file.">
+      <option name="closed" value="true" />
+      <created>1721891321585</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721891321585</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Set up the Main.java file.">
+      <option name="closed" value="true" />
+      <created>1721891407781</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721891407781</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
