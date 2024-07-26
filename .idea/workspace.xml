@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d75b440-fb7b-4f4c-bc07-36ecabb5741f" name="Changes" comment="Set up the Main.java file.">
-      <change beforePath="$PROJECT_DIR$/._LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/._Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JPaint.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/JPaint.form" afterDir="false" />
+    <list default="true" id="3d75b440-fb7b-4f4c-bc07-36ecabb5741f" name="Changes" comment="The application does function. Need to fix the eraser method.">
       <change beforePath="$PROJECT_DIR$/src/JPaint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JPaint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721878880672</updated>
-      <workItem from="1721878881660" duration="31602000" />
+      <workItem from="1721878881660" duration="31863000" />
     </task>
     <task id="LOCAL-00001" summary="Built the main form.">
       <option name="closed" value="true" />
@@ -127,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721891407781</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="The application does function. Need to fix the eraser method.">
+      <option name="closed" value="true" />
+      <created>1721964361388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721964361388</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +164,7 @@
     <MESSAGE value="Wrote logic for the application." />
     <MESSAGE value="merging." />
     <MESSAGE value="Set up the Main.java file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Set up the Main.java file." />
+    <MESSAGE value="The application does function. Need to fix the eraser method." />
+    <option name="LAST_COMMIT_MESSAGE" value="The application does function. Need to fix the eraser method." />
   </component>
 </project>

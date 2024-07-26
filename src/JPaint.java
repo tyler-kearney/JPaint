@@ -98,7 +98,7 @@ public class JPaint extends JFrame {
 
         drawingCanvas.addMouseListener(new MouseAdapter() {
             @Override
-            public void mouseDragged(MouseEvent e) {
+            public void mouseMoved(MouseEvent e) {
                 points.add(e.getPoint());
                 previousX = e.getX();
                 previousY = e.getY();
